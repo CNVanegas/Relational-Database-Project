@@ -1,0 +1,30 @@
+Department,Age,Employee_Number,Employee_Type,Gender,Monthly_Income,Job_Role,YearsAtCompany
+Sales,34,1489,Full Time,Female,4599,Sales Executive,15
+Sales,35,1492,Full Time,Male,2404,Sales Representative,1
+Research & Development,24,1494,Full Time,Male,3172,Laboratory Technician,0
+Sales,24,1495,Full Time,Female,2033,Sales Representative,1
+Research & Development,44,1496,Full Time,Male,10209,Manufacturing Director,2
+Sales,29,1497,Full Time,Male,8620,Sales Executive,10
+Human Resources,30,1499,Full Time,Male,2064,Human Resources,5
+Research & Development,55,1501,Full Time,Male,4035,Healthcare Representative,3
+Research & Development,33,1502,Full Time,Female,3838,Laboratory Technician,5
+Sales,47,1503,Full Time,Female,4591,Sales Executive,5
+Research & Development,28,1504,Full Time,Male,2561,Laboratory Technician,0
+Research & Development,28,1506,Full Time,Male,1563,Research Scientist,1
+Sales,28,1507,Full Time,Male,4898,Sales Executive,4
+Research & Development,49,1509,Full Time,Female,4789,Laboratory Technician,3
+Research & Development,29,1513,Full Time,Female,3180,Laboratory Technician,3
+Research & Development,28,1514,Full Time,Male,6549,Manufacturing Director,8
+Research & Development,33,1515,Full Time,Male,6388,Healthcare Representative,0
+Research & Development,32,1516,Full Time,Male,11244,Manager,5
+Research & Development,54,1520,Full Time,Female,16032,Manager,14
+Research & Development,29,1522,Part Time,Male,2362,Research Scientist,9
+Research & Development,44,1523,Part Time,Male,16328,Research Director,20
+Research & Development,39,1525,Part Time,Female,8376,Manufacturing Director,2
+Sales,46,1527,Full Time,Female,16606,Manager,13
+Research & Development,35,1529,Part Time,Female,8606,Healthcare Representative,11
+Research & Development,23,1533,Part Time,Male,2272,Laboratory Technician,4
+Research & Development,40,1534,Part Time,Male,2018,Laboratory Technician,5
+Sales,34,1535,Full Time,Male,7083,Sales Executive,10
+Research & Development,31,1537,Part Time,Female,4084,Research Scientist,7
+Research & Development,50,1539,Full Time,Male,14411,Research Director,32
